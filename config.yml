@@ -15,5 +15,8 @@ menu:
     - name: Home
       url: /
       weight: 1
+    - name: Personal Website
+      url: https://florian-moehle.de
+      weight: 2
 
 googleAnalytics: "G-E52YHHLZG3"
