@@ -1,0 +1,12 @@
+sitename: "Spring Boot Quickstart Guides"
+baseURL: "/"
+languageCode: en-us
+title: "Spring Boot Quickstart Guides"
+author: Florian M.
+
+params:
+  copyrights: Florian M.
+
+theme: kaslaanka
+
+#googleAnalytics = "UA-302012394-1"
