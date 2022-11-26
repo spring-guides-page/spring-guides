@@ -2,6 +2,7 @@
 title: "Migrating Databases with Liquibase"
 date: 2022-11-26T11:23:52+01:00
 author: "Florian M."
+tags: ["Data"]
 brief: "Integrating automated Database Migrations into Spring using Liquibase"
 ---
 
