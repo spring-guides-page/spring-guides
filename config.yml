@@ -10,4 +10,10 @@ params:
 
 theme: kaslaanka
 
+menu:
+  primary:
+    - name: Home
+      url: /
+      weight: 1
+
 googleAnalytics: "G-E52YHHLZG3"
