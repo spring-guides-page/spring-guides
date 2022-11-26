@@ -1,10 +1,11 @@
-sitename: "Spring Boot Quickstart Guides"
-baseURL: "https://spring-guides-page.github.io/spring-guides/"
+sitename: "Spring Boot Guides"
+baseURL: "https://blog.florian-moehle.de"
 languageCode: en-us
-title: "Spring Boot Quickstart Guides"
+title: "Spring Boot Guides"
 author: Florian M.
 
 params:
+  sitename: "Spring Boot Guides"
   copyrights: Florian M.
 
 theme: kaslaanka
