@@ -1,5 +1,5 @@
 sitename: "Spring Boot Quickstart Guides"
-baseURL: "/"
+baseURL: "https://spring-guides-page.github.io/spring-guides/"
 languageCode: en-us
 title: "Spring Boot Quickstart Guides"
 author: Florian M.
@@ -9,4 +9,4 @@ params:
 
 theme: kaslaanka
 
-#googleAnalytics = "UA-302012394-1"
+googleAnalytics: "G-E52YHHLZG3"
