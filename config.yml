@@ -1,5 +1,5 @@
 sitename: "Spring Boot Guides"
-baseURL: "https://blog.florian-moehle.de"
+baseURL: "https://blog.florian-moehle.de/"
 languageCode: en-us
 title: "Spring Boot Guides"
 author: Florian M.
