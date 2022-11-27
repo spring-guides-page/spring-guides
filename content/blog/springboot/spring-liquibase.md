@@ -14,10 +14,11 @@ Liquibase is used in many different Java applications to perform automated datab
 This is done by integrating so-called Changelog files in the application's executable.</br> 
 These Changelogs can contain multiple Changesets which contain the logic for transforming the database schema.
 
-Liquibase transforms these changesets into SQL queries at runtime, independent of the database type being used.
+Liquibase transforms these Changesets into SQL queries at runtime, independent of the database type being used.
 
 ## Prerequisites
-As Liquibase uses the application's database connection a Spring managed Datasource is required to run changesets.
+As Liquibase uses the application's database connection a Spring managed Datasource is required to run Changesets.
+This is done by [integrating Spring Data]({{< ref "/blog/springboot/spring-data-setup" >}}) into your project.
 
 ## Integrating Liquibase
 ### Adding the Dependency
